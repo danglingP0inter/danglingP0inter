@@ -18,7 +18,8 @@
   <img align="left" alt="Kirti's Lichess" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
@@ -37,3 +38,5 @@ Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, I'm a Co
 [![Kirti's github stats](https://github-readme-stats.vercel.app/api?username=danglingP0inter&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danglingP0inter&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**NOTE**: _Top languages are not indicative of the fact that I mostly code in these languages. This matrix merely indicate that I've uploaded most code in these languages on GitHub._
