@@ -21,7 +21,6 @@
 ![](https://komarev.com/ghpvc/?username=danglingP0inter)
 
 <br/>
-<br/>
 
 Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focussed towards iOS app development. I also enjoy contributing to open source projects. Besides programming, I love traveling 🌄, playing Chess♟️, watching TV series & standup comedy 🎭 and making memes:)
 
