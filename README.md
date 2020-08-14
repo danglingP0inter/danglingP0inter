@@ -34,8 +34,10 @@ Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focu
 - 😄 Pronouns: _He/Him_ 🤗.
 - ⚡ Fun fact: _I consider myself a decent player of Chess. I would be very happy if you can help breaking this 'myth'. Challenge me on https://lichess.org/@/kirti587_.
 
-[![Kirti's github stats](https://github-readme-stats.vercel.app/api?username=danglingP0inter&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danglingP0inter&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Kirti's github stats](https://github-readme-stats.vercel.app/api?username=danglingP0inter&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danglingP0inter&layout=compact&theme=radical)
 
 **NOTE**: _Top languages are not indicative of the fact that I mostly code in these languages. This matrix merely indicate that I've uploaded most code in these languages on GitHub. Similarily, GitHub stats don't include contributions to private repositories._
