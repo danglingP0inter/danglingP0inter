@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Besides programming, I love traveling, playing Chess, watching TV series & standup comedy, making memes and annoying people.
+Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, more focussed towards iOS app development. I also enjoy contributing to open source projects. Besides programming, I love traveling, playing Chess♟️, watching TV series & standup comedy, making memes and annoying people.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
