@@ -18,6 +18,8 @@
   <img align="left" alt="Kirti's Lichess" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=danglingP0inter)
+
 <br/>
 <br/>
 
