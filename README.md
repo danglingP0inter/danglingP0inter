@@ -39,4 +39,4 @@ Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, I'm a Co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danglingP0inter&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**NOTE**: _Top languages are not indicative of the fact that I mostly code in these languages. This matrix merely indicate that I've uploaded most code in these languages on GitHub._
+**NOTE**: _Top languages are not indicative of the fact that I mostly code in these languages. This matrix merely indicate that I've uploaded most code in these languages on GitHub. Similarily, GitHub stats don't include contributions to private repositories._
