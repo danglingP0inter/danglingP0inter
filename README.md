@@ -1,4 +1,4 @@
-### Hey Nerd 👋
+### Hey there, I'm Kirti 👋
 
 <br/>
 
