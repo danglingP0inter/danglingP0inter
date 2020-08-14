@@ -1,4 +1,4 @@
-### Hey there, I'm Kirti 👋
+### Hey Nerd 👋
 
 <br/>
 
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, more focussed towards iOS app development. I also enjoy contributing to open source projects. Besides programming, I love traveling🌄, playing Chess♟️, watching TV series & standup comedy🎭 and making memes:)
+Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focussed towards iOS app development. I also enjoy contributing to open source projects. Besides programming, I love traveling 🌄, playing Chess♟️, watching TV series & standup comedy 🎭 and making memes:)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -29,7 +29,6 @@ Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently, more foc
 
 - 🔭 I’m currently working on _[Telegram App](https://github.com/danglingP0inter/Telegram-iOS)_.
 - 🌱 I’m currently learning _SwiftUI and React Native_.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about _Anything. Happy to help😃_.
 - 📫 How to reach me: _kirtiverma603@gmail.com_.
 - 😄 Pronouns: _He/Him_ 🤗.
