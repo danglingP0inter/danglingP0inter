@@ -22,7 +22,7 @@
 
 <br/>
 
-Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focussed towards iOS app development. I also enjoy contributing to open source projects. Besides programming, I love traveling 🌄, playing Chess♟️, watching TV series & standup comedy 🎭 and making memes:)
+Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focussed towards iOS app development. I love contributing to open source projects. When I'm not coding, I'm traveling 🌄, playing Chess♟️, watching TV series & standup comedy 🎭 or making memes perhaps:)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -33,7 +33,8 @@ Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focu
 - 💬 Ask me about _Anything. Happy to help😃_.
 - 📫 How to reach me: _kirtiverma603@gmail.com_.
 - 😄 Pronouns: _He/Him_ 🤗.
-- ⚡ Fun fact: _I consider myself a decent player of Chess. I would be very happy if you can help breaking this 'myth'. Challenge me on https://lichess.org/@/kirti587_.
+- ⚡ Fun fact: _I consider myself a decent player of Chess. I would be very happy if you can help breaking this 'myth'. Try your luck <a href="https://lichess.org/@/kirti587_.">
+  here </a>_
 
 <br/>
 
