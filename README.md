@@ -33,8 +33,8 @@ Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focu
 - 💬 Ask me about _Anything. Happy to help😃_.
 - 📫 How to reach me: _kirtiverma603@gmail.com_.
 - 😄 Pronouns: _He/Him_ 🤗.
-- ⚡ Fun fact: _I consider myself a decent player of Chess. I would be very happy if you can help breaking this 'myth'. Try your luck <a href="https://lichess.org/@/kirti587_.">
-  here </a>_
+- ⚡ Fun fact: _I consider myself a decent player of Chess. I would be very happy if you can help breaking this 'myth'. Try your luck <a href="https://lichess.org/@/kirti587">
+  here </a>_.
 
 <br/>
 
