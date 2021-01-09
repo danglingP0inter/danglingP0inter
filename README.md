@@ -3,19 +3,19 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/kirti-verma-05aaa6149/">
-  <img align="left" alt="Kirti's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Kirti's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
 </a>
 <a href="https://t.me/TheKirtiVerma">
-  <img align="left" alt="Kirti's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Kirti's Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />
 </a>
 <a href="https://leetcode.com/danglingp0inter1/">
   <img align="left" alt="Kirti's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.hackerrank.com/danglingP0inter">
-  <img align="left" alt="Kirti's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />
+  <img align="left" alt="Kirti's Leetcode" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 <a href="https://www.facebook.com/kirti.verma.3785/">
-  <img align="left" alt="Kirti's Lichess" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />
+  <img align="left" alt="Kirti's Lichess" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=danglingP0inter)
