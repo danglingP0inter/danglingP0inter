@@ -22,7 +22,7 @@
 
 <br/>
 
-Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focussed towards iOS app development. I love contributing to open source projects. When I'm not coding, I'm traveling 🌄, playing Chess♟️, watching TV series & standup comedy 🎭 or making memes perhaps:)
+Hi, I'm Kirti Verma, a Full Stack Developer 🚀 from India, currently more focused on iOS app development. I love contributing to open-source projects. When I'm not coding, I'm traveling 🌄, playing Chess♟️, watching TV series & standup comedy 🎭 , or making memes perhaps :)
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
