@@ -12,11 +12,11 @@
   <img align="left" alt="Kirti's Leetcode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
 </a>
 <a href="https://www.hackerrank.com/danglingP0inter">
-  <img align="left" alt="Kirti's Leetcode" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
+  <img align="left" alt="Kirti's Hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
-<a href="https://www.facebook.com/kirti.verma.3785/">
+<!-- <a href="https://www.facebook.com/kirti.verma.3785/">
   <img align="left" alt="Kirti's Lichess" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
-</a>
+</a> -->
 
 ![](https://komarev.com/ghpvc/?username=danglingP0inter)
 
